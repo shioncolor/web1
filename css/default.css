@@ -10,7 +10,7 @@ overflow: hidden;
 
 #gnav li{
   float:left;
-  width:20%;
+  width:15%;
   border-right: white 1px solid;
   list-style-type: none;
 }
