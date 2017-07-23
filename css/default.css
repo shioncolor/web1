@@ -28,3 +28,11 @@ overflow: hidden;
   background: lightgreen;
   color: black;
 }
+
+#gnav li:first-child a{
+  border-radius:5px 0 0 5px;
+}
+
+#gnav li:last-child a{
+  border-radius:0 5px 5px 0;
+}
