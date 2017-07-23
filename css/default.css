@@ -6,6 +6,7 @@ body{
 
 #gnav a{
   display:block;
+  padding:10px 0;
   text-align: center;
   text-decoration: none;
   background: darkgreen;
